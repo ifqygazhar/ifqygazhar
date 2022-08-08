@@ -8,3 +8,4 @@
   - Dribble: [ifqyGazhar](https://dribbble.com/ifqyGazhar)
   - Instagram: [@ifqygifha_azhar](https://www.instagram.com/ifqygifha_azhar)
   - LinkedIn: [Ifqy Gifha Azhar](https://www.linkedin.com/in/ifqygazhar/)
+  - Web Portofolio : [ifqygazhar.github.io](https://ifqygazhar.github.io/)
