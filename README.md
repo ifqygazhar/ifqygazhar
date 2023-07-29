@@ -2,6 +2,7 @@
 
 - 🎨 I’m currently working on **UI/UX Designer**
 - 💻 I’m currently learning **Backend Developer**
+- 📱 I’m currently learning **Mobile Developer**
 - 🛡️ I’m currently learning **Cyber Security**
 - 🎮 I like to play game
 - 📫 Let's connect with me:
