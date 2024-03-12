@@ -1,4 +1,4 @@
-### Hi I'm Ifqy Gifha Azhar👋
+### Hi I'm Ifqy Gifha Azhar (ifqygazhar)👋
 
 - 🎨 I’m currently working on **UI/UX Designer**
 - 💻 I’m currently learning **Backend Developer**
