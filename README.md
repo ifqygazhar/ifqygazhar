@@ -1,4 +1,4 @@
-### Hi there, I'm Ifqy Gifha Azhar👋
+### Hi I'm Ifqy Gifha Azhar👋
 
 - 🎨 I’m currently working on **UI/UX Designer**
 - 💻 I’m currently learning **Backend Developer**
@@ -9,4 +9,4 @@
   - Dribble: [ifqyGazhar](https://dribbble.com/ifqyGazhar)
   - Instagram: [@ifqygifha_azhar](https://www.instagram.com/ifqygifha_azhar)
   - LinkedIn: [Ifqy Gifha Azhar](https://www.linkedin.com/in/ifqygazhar/)
-  - Web Portofolio : [ifqygazhar.github.com](https://ifqygazhar.com)
+  - Web Portofolio : [ifqygazhar.com](https://ifqygazhar.com)
