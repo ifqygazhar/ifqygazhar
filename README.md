@@ -1,6 +1,6 @@
 ### Hi I'm Ifqy Gifha Azhar (ifqygazhar)👋
 
-Hello I am a mobile developer using **FLUTTER** technology with 1+ years of experience, and also using **Kotlin** for Android Native Development. 
+I am a mobile developer using **FLUTTER** technology with 1+ years of experience, and also using **Kotlin** for Android Native Development. 
 
 📫 Let's connect with me:
   - Dribble: [ifqyGazhar](https://dribbble.com/ifqyGazhar)
